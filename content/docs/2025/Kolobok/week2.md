@@ -169,13 +169,13 @@ Our training notebook provides a complete ML pipeline for tread depth estimation
 
 | Team Member | Primary Contributions | Deliverables |
 |-------------|----------------------|--------------|
-| Nikita Menshikov | Project documentation and user flow design | Comprehensive report and process diagrams |
+| Nikita Menshikov | Project documentation and user flow design | Comprehensive report and [backlog](https://github.com/orgs/IU-Capstone-Project-2025/projects/9/views/1), setup labelling environment |
 | Nikita Zagainov | Machine learning model development | Training notebook and model implementations [[notebook](https://github.com/IU-Capstone-Project-2025/Kolobok/blob/main/ML/notebooks/train.ipynb)] |
 | Vladislav Strelkov | Infrastructure and deployment | Docker environment and service orchestration, tire annotation tool [[annotation tool](https://github.com/IU-Capstone-Project-2025/Kolobok/commit/ec520dcdb5376281db28b381b7304d03cb107230)] [[Docker setup](https://github.com/IU-Capstone-Project-2025/Kolobok/commit/c894595c8928c915249d5a11dc25195ba1534777)] [[docker-compose](https://github.com/IU-Capstone-Project-2025/Kolobok/commit/d34838a54e748eed72ff9adee51dd193c6f2c974)] |
 | Sergey Aitov | Data annotation and API development | Labeled dataset and backend scaffolding [[dummy endpoints](https://github.com/IU-Capstone-Project-2025/Kolobok/blob/main/backend/app.py)] [[tires dataset](https://disk.yandex.ru/d/WTfWlQqAaTR-ZA)] |
 | Darya Stepanova | User experience design | Bot flow refinement and interface design [[figma](https://www.figma.com/design/llkM7QUkBNkwm0pit8qUhn/KolobokBoard?node-id=0-1&t=S58PeihoZSgsA2XF-1)] |
 | Ekaterina Petrova | Dataset preparation and API support | Annotated images and backend assistance [[tires dataset](https://disk.yandex.ru/d/WTfWlQqAaTR-ZA)] |
-| Dmitry Tetkin | Bot interaction logic | Telegram bot conversation handling |
+| Dmitry Tetkin | Bot interaction logic | Telegram bot prototype |
 
 We confirm that all code in the main branch:
 - [x] Compiles and runs without errors
