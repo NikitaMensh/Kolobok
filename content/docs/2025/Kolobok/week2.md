@@ -175,7 +175,7 @@ Our training notebook provides a complete ML pipeline for tread depth estimation
 | Sergey Aitov | Data annotation and API development | Labeled dataset (350 images collected) and backend scaffolding [[dummy endpoints](https://github.com/IU-Capstone-Project-2025/Kolobok/blob/main/backend/app.py)] [[tires dataset](https://disk.yandex.ru/d/WTfWlQqAaTR-ZA)] |
 | Darya Stepanova | User experience design | Bot flow refinement and interface design [[figma](https://www.figma.com/design/llkM7QUkBNkwm0pit8qUhn/KolobokBoard?node-id=0-1&t=S58PeihoZSgsA2XF-1)] |
 | Ekaterina Petrova | Dataset preparation and API support | Labeled dataset (350 collected) and backend assistance [[tires dataset](https://disk.yandex.ru/d/WTfWlQqAaTR-ZA)] |
-| Dmitry Tetkin | Bot interaction logic | Telegram bot prototype |
+| Dmitry Tetkin | Bot interaction logic | Telegram bot [prototype](https://github.com/IU-Capstone-Project-2025/Kolobok/blob/main/tg_bot/logic.py) |
 
 We confirm that all code in the main branch:
 - [x] Compiles and runs without errors
